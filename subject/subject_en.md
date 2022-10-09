@@ -11,7 +11,7 @@ PiRacer is your learning object for the SEA:ME embedded systems module. PiRacer 
 
 
 # Introduction
-PiRacer DonkeyCar — AI Autonomous Racing Robot Powered by Raspberry Pi 4, Deep Learning, Self Driving
+PiRacer DonkeyCar AI Autonomous Racing Robot Powered by Raspberry Pi 4, Deep Learning, Self Driving
 
 
 # Objectives
@@ -38,5 +38,5 @@ Safety first! Electronics is a potentially dangerous hobby. Any circuit that wor
 * Move backwards/reverse (possible?)
 * Turn left
 * Turn right
-* Prepare “How-To” documentation
+* Prepare How-To documentation
 
