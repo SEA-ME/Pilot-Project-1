@@ -62,7 +62,9 @@
 ## Step 3: Connecting to the Pi
 
 1. Find my car's IP
+
     <img src="https://user-images.githubusercontent.com/111988634/189864977-2a45180d-bc06-468b-bed4-a2a6049c607c.png"  width="300" height="200"/> 
+    
     ```bash
     pint <your hostname>.local
     ```
