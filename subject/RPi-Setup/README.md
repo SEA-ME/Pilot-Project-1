@@ -15,10 +15,10 @@
 <br/>
 
 ## Step 1: Flash Operating System
-Advanced options
 
-![Untitled](https://user-images.githubusercontent.com/111988634/189864911-a9a0dc23-2457-4d28-a555-85941f48fcb4.png)
-![Untitled (1)](https://user-images.githubusercontent.com/111988634/189864923-650e5f07-4be6-4020-8fbb-0c8de57a7bcb.png)
+<img src="https://user-images.githubusercontent.com/111988634/189864911-a9a0dc23-2457-4d28-a555-85941f48fcb4.png"  width="300" height="200"/> 
+
+<img src="https://user-images.githubusercontent.com/111988634/189864923-650e5f07-4be6-4020-8fbb-0c8de57a7bcb.png"  width="300" height="340"/> 
 
 1. Download [Raspian Legacy](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2021-12-02/2021-12-02-raspios-buster-armhf-lite.zip) ( Buster ) 
 
@@ -62,8 +62,7 @@ Advanced options
 ## Step 3: Connecting to the Pi
 
 1. Find my car's IP
-    ![Untitled (2)](https://user-images.githubusercontent.com/111988634/189864977-2a45180d-bc06-468b-bed4-a2a6049c607c.png)
-    
+    <img src="https://user-images.githubusercontent.com/111988634/189864977-2a45180d-bc06-468b-bed4-a2a6049c607c.png"  width="300" height="200"/> 
     ```bash
     pint <your hostname>.local
     ```
@@ -89,7 +88,8 @@ sudo apt-get upgrade
 <br/>
 
 ## Step 5: Raspi-config
-![Untitled (3)](https://user-images.githubusercontent.com/111988634/189865327-d4f30587-637b-4862-ad78-e1b1353759af.png)
+<img src="https://user-images.githubusercontent.com/111988634/189865327-d4f30587-637b-4862-ad78-e1b1353759af.png"  width="300" height="200"/> 
+
 ```bash
 sudo raspi-config
 ```

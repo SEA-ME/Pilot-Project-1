@@ -43,7 +43,8 @@
 
 ## Step 2: Web Control
 
-![Untitled (4)](https://user-images.githubusercontent.com/111988634/189865372-29e46eb9-9c7a-4abf-a8f5-9ac2da8a535f.png)
+<img src="https://user-images.githubusercontent.com/111988634/189865372-29e46eb9-9c7a-4abf-a8f5-9ac2da8a535f.png"  width="300" height="200"/> 
+
 1. Open Raspberry Pi terminal and run the follow commands
     
     ```bash
@@ -94,7 +95,7 @@
 
 </aside>
 
-![Untitled (5)](https://user-images.githubusercontent.com/111988634/189865479-05225856-e480-4b85-89c0-9c7b93fc58e7.png)
+<img src="https://user-images.githubusercontent.com/111988634/189865479-05225856-e480-4b85-89c0-9c7b93fc58e7.png"  width="300" height="150"/> 
 
 1. Connect game pad with PiRacer
 2. Create joystick creator wizard
